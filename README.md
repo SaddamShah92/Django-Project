@@ -1,2 +1,5 @@
 # Django-Project
-This app is related to upload pdf Documents, JPG Images Using django
+I am currently working on this repository and will be sharing it with you soon. Thank you for your patience.
+
+Regards,
+Syed Saddam Shah
